@@ -62,7 +62,11 @@
 
 ### ✦ Commits
 
-<p align="center"><img src="https://ghchart.rshah.org/C9FF57/LordArcamo" width="100%" alt="Lord Arcamo's GitHub contribution chart" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LordArcamo/LordArcamo/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LordArcamo/LordArcamo/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/LordArcamo/LordArcamo/output/snake-dark.svg" width="100%" alt="A lime snake eating Lord Arcamo's GitHub contribution graph" />
+</picture>
 
 <a href="https://www.fazeddigital.com/contact"><img src="./assets/marquee.svg" width="100%" alt="Websites, brands, SEO, 3D web, Framer, Webflow, e-commerce, systems. Start a project at fazeddigital.com." /></a>
 
